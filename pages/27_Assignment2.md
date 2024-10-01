@@ -1,4 +1,4 @@
-# Assignment 6 Soal 1
+# Assignment 6 Soal 2
 <div> </div>
 
 Di sebuah toko buku terdapat berbagai kategori: **FIKSI**, **NONFIKSI**, **SAINS**, **SEJARAH**, dan **KOMIK**. Buat enum `KategoriBuku` yang mencakup **harga** dan **status ketersediaan**. Tambahkan inner class `DetailBuku` untuk menyimpan **penulis** dan **tahun terbit**.

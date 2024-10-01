@@ -29,7 +29,7 @@ enum Hari {
 
 public class Main {
     public static void main(String[] args) {
-        Hari prakA = Hari.SELASA;
+        Hari prakA = Hari.KAMIS;
         Hari prakB = Hari.RABU;
     }
 }

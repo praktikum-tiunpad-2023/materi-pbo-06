@@ -10,14 +10,14 @@ Penggunaan Enum pada Switch
 ```java
 public class Main {
     public static void main(String[] args) {
-        Hari pbo = Hari.SELASA;
+        Hari pbo = Hari.KAMIS;
         
         switch (pbo) {
-            case SELASA:
-                System.out.println("Prak. Kelas A");
-                break;
             case RABU:
                 System.out.println("Prak. Kelas B");
+                break;
+            case KAMIS:
+                System.out.println("Prak. Kelas A");
                 break;
             case default:
                 System.out.println("Gaada Praktikum");
